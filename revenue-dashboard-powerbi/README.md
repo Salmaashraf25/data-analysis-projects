@@ -1,4 +1,4 @@
-![Revenue Dashboard](dashboard.png)
+![Revenue Dashboard](image.png)
 This project presents an interactive Revenue Performance Dashboard built using Power BI, designed to monitor business performance against predefined targets and support data-driven decision-making.
 
 Key Features:
